@@ -14,3 +14,9 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- I'm currently working on my undergratue degree in Electrical Engineering at NYU 👨‍🎓
+- I'm currently learning about Git along with Linux and Bash
+- You can reach me by my email: jf4707@nyu.edu
+- A fun fact about me is that I am a fan of gifs. Here's one to hopefully birghten your day!
+![funny-dog](https://github.com/jf4707/jf4707/assets/157550421/36bf0f15-e3e7-431a-8915-746836fb7061)
